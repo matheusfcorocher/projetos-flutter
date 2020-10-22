@@ -1,8 +1,0 @@
-A estrutura do app é a partir de screens(representa a tela de usuário) irá para o
-blocs que vai controlar os dados e vai repassar para o repositories
-(representa o banco de dados).
-
-Depois, o banco de dados vai mandar informações para o bloc e o bloc devolve para screen.
-
-Usa essa padrão, pois se o repositories(banco de dados) pode se altera, mantendo o blocs e
-screen intactos.
