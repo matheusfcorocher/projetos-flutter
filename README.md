@@ -4,7 +4,9 @@ Esses são alguns projetos desenvolvidos no curso do Daniel Cioffi(https://www.u
 
 Exemplos dos Apps logo abaixo:
 
-<img src="./loja_virtuak.gif" height="300em" /><img src="./agenda_contatos.gif" height="300em" />
+
+<img src="./loja_virtuak.gif" height="300em" width="300em"/><img src="./agenda_contatos.gif" height="300em" width="300em"/>
+<img src="./fluttertube.gif" height="300em" width="300em"/><img src="./gerente_loja.gif" height="300em" width="300em"/>
 
 
 Loja Virtual
