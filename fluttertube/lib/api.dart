@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 
 import 'models/video.dart';
 
-const API_KEY = "AIzaSyCXAvBLf297Ju2Z0mkcsur4zxAACxdKDWg";
+const API_KEY = "YOUR_GOOGLE_API_KEY";
 
 class Api {
 
